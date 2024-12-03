@@ -1,10 +1,10 @@
 # CODTECH-Task2
 
-Name: Saloni Jain
-Company: CODTECH IT SOLUTIONS
-ID: CT1MTDS28
-Domain: Data Analytics
-Duration: Nov to Dec 2024
+Name: Saloni Jain <br>
+Company: CODTECH IT SOLUTIONS <br>
+ID: CT1MTDS28 <br>
+Domain: Data Analytics <br>
+Duration: Nov to Dec 2024 <br>
 
 # Project Title: House Price Prediction
 # Objective:
